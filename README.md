@@ -1,8 +1,9 @@
 # Python编程从入门到提高
-参考清华大学出版社《Python编程从入门到提高》源代码及课件。
+参考清华大学出版社《Python编程从入门到提高》源代码及课件: https://github.com/hitlic/python_book
 
 # Python数据分析
-参考
+参考:Python for Data Analysis, 3rd Edition  代码课件:https://github.com/wesm/pydata-book
+第二版中文:https://seancheney.gitbook.io/python-for-data-analysis-2nd
 
 ## 内容
 
@@ -29,6 +30,8 @@
 - 运行jupyter notebook
   - 在终端进入课件所在目录
   - 运行命令`jupyter notebook .`即可
+- 使用jupyter lab也可以
+  参考: https://cloud.tencent.com/developer/article/1918314 安装 ,有些插件也可以使用https://cloud.tencent.com/developer/article/1971947
 
 ### 使用幻灯片显示
 
