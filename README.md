@@ -32,7 +32,7 @@
   - 运行命令`jupyter notebook .`即可
 - 使用jupyter lab也可以
   参考: https://cloud.tencent.com/developer/article/1918314 安装 ,有些插件也可以使用https://cloud.tencent.com/developer/article/1971947
-
+  https://www.zhihu.com/tardis/zm/art/101070029?source_id=1003
 ### 使用幻灯片显示
 
 - 安装Jupyter和autopep8
@@ -57,4 +57,9 @@
   - 运行命令`jupyter notebook .`
 
 - 在弹出的浏览器中选择一个课件打开，点击下图所示的图标即可以幻灯片形式显示
+
+### git 大文件管理
+
+https://help.aliyun.com/document_detail/206889.html
+以及管理 目录
 
