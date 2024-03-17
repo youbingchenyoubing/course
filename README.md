@@ -5,6 +5,12 @@
 参考:Python for Data Analysis, 3rd Edition  代码课件:https://github.com/wesm/pydata-book
 第二版中文:https://seancheney.gitbook.io/python-for-data-analysis-2nd
 
+# transformer
+参考 https://huggingface.co/docs/transformers/v4.38.2/zh/pipeline_tutorial
+https://github.com/zyds/transformers-code/
+https://www.bilibili.com/video/BV1ta4y1g7bq/?spm_id_from=333.788&vd_source=3d47766182d08faadaa31d1333050507
+https://transformers.run/intro/2021-12-08-transformers-note-1/#%E8%BF%99%E4%BA%9B-pipeline-%E8%83%8C%E5%90%8E%E5%81%9A%E4%BA%86%E4%BB%80%E4%B9%88
+
 ## 内容
 
 - 源代码
