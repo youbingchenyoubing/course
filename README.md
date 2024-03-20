@@ -17,8 +17,11 @@
 
 参考
 [huggingface](https://huggingface.co/docs/transformers/v4.38.2/zh/pipeline_tutorial)
+
 [对应的 B 站视频的源码](https://github.com/zyds/transformers-code/)
+
 [对应的 B 站视频](https://www.bilibili.com/video/BV1ta4y1g7bq/?spm_id_from=333.788&vd_source=3d47766182d08faadaa31d1333050507)
+
 [transfomer 快速入门](https://transformers.run/)
 
 # 公众号
