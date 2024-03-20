@@ -2,20 +2,24 @@
 
 ## Python 编程从入门到提高
 
-参考清华大学出版社《Python 编程从入门到提高》源代码及课件:
-[清华大学课件](https://github.com/hitlic/python_book)
+参考:
+
+[清华大学出版社《Python 编程从入门到提高》源代码及课件](https://github.com/hitlic/python_book)
 
 ## Python 数据分析
 
 参考:
+
 [Python for Data Analysis, 3rd Edition 代码课件](https://github.com/wesm/pydata-book)
+
 [第二版中文](https://seancheney.gitbook.io/python-for-data-analysis-2nd)
 
 ## transformer
 
 > Transformers 是由 Hugging Face 开发的一个 NLP 包，支持加载目前绝大部分的预训练模型。随着 BERT、GPT 等大规模语言模型的兴起，越来越多的公司和研究者采用 Transformers 库来构建 NLP 应用。当然不止 NLP，Transformers 也支持其他领域的预训练模型，如图像、音频、文本生成等。
 
-参考
+参考:
+
 [huggingface](https://huggingface.co/docs/transformers/v4.38.2/zh/pipeline_tutorial)
 
 [对应的 B 站视频的源码](https://github.com/zyds/transformers-code/)
