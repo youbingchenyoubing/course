@@ -2,3 +2,4 @@
 **/.ipynb_checkpoints
 transformers-code
 .virtual_checkpoints
+.virtual_documents
