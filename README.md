@@ -23,7 +23,7 @@
 
 # 公众号
 
-![程序猿小三](imgs/qrcode.jpg)
+![程序猿小三](imgs/getqrcode.png)
 
 ## 内容
 
