@@ -30,7 +30,7 @@
 
 # 公众号
 
-![程序猿小三](imgs/getqrcode.png)
+![程序猿阿三](imgs/getqrcode.png)
 
 ## 内容
 
