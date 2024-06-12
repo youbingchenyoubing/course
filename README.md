@@ -14,6 +14,10 @@
 
 [第二版中文](https://seancheney.gitbook.io/python-for-data-analysis-2nd)
 
+## 机器学习
+
+## 深度学习
+
 ## transformer(智能化学习)
 
 > Transformers 是由 Hugging Face 开发的一个 NLP 包，支持加载目前绝大部分的预训练模型。随着 BERT、GPT 等大规模语言模型的兴起，越来越多的公司和研究者采用 Transformers 库来构建 NLP 应用。当然不止 NLP，Transformers 也支持其他领域的预训练模型，如图像、音频、文本生成等。
@@ -27,6 +31,11 @@
 [对应的 B 站视频](https://www.bilibili.com/video/BV1ta4y1g7bq/?spm_id_from=333.788&vd_source=3d47766182d08faadaa31d1333050507)
 
 [transfomer 快速入门](https://transformers.run/)
+
+## 练习
++ 基础编程题: http://ybt.ssoier.cn:8088/, https://www.luogu.com.cn/, https://leetcode.com/
++ 数据分析numpy刷题: https://developer.aliyun.com/article/1107871, https://www.heywhale.com/mw/project/59f29f67c5f3f5119527a2cc
++ 
 
 # 公众号
 
