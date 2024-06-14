@@ -35,7 +35,7 @@
 ## 练习
 + 基础编程题: http://ybt.ssoier.cn:8088/, https://www.luogu.com.cn/, https://leetcode.com/
 + 数据分析numpy刷题: https://developer.aliyun.com/article/1107871, https://www.heywhale.com/mw/project/59f29f67c5f3f5119527a2cc
-+ 
++ 数据分析实战: https://github.com/jackfrued/Python-100-Days/blob/master/Day66-80/66.%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90%E6%A6%82%E8%BF%B0.md
 
 # 公众号
 
