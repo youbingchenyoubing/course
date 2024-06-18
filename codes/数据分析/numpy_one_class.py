@@ -7,5 +7,5 @@ def svd(np_data):
 
 
 if __name__ == '__main__':
-    data =  np.random.uniform(0,1,(10,10))
+    data = np.random.uniform(0,1,(10,10))
     svd(data)
