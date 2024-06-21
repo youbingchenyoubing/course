@@ -46,8 +46,7 @@
 - 源代码
   - `codes`
 - 课件：Jupyter notebook 格式的幻灯片
-  - `notebook_slides`
-
+  - `noteb一趟[]
 ## 课件使用
 
 详细说明参见`notebook_slides/课件使用说明.md`。
