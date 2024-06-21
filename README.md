@@ -97,11 +97,11 @@
 
 - 在弹出的浏览器中选择一个课件打开，点击下图所示的图标即可以幻灯片形式显示
 
-### git 大文件管理
+### git 
 
-https://help.aliyun.com/document_detail/206889.html
+大文件管理: https://help.aliyun.com/document_detail/206889.html
 以及管理 目录
-
+多个远端仓库同时推送： https://segmentfault.com/a/1190000011294144
 ### 课后练习题
 编程网站
 + 入门: https://ti.luogu.com.cn/problemset/
